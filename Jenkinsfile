@@ -1,5 +1,4 @@
 
-
 node('dev')
 {   
    def cardNumber=input message: 'Introduzca el número de tarjeta', 
